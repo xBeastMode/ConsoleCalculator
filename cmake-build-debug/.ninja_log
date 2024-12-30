@@ -1,0 +1,25 @@
+# ninja log v6
+15	785	1735146925261312196	CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o	df0ca5ae04af3047
+10	613	1735151865138830085	CMakeFiles/consolecalculator.dir/Calculator.cpp.o	1967a73cf742cb2b
+9	653	1735146203894677183	CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o	fe3efd7cc06ca1a0
+683	782	1735151983124774697	consolecalculator	f1d9c9c8621974e
+2	82	1734019794824740448	build.ninja	ed2fba27aa3e54e5
+8	679	1735147149064734403	CMakeFiles/consolecalculator.dir/CalculatorUtils.cpp.o	829a98c075c77d8
+9	683	1735151982450938348	CMakeFiles/consolecalculator.dir/main.cpp.o	fc1ce608592a3619
+9	724	1735152066946894102	CMakeFiles/consolecalculator.dir/main.cpp.o	fc1ce608592a3619
+10	726	1735152066947343175	CMakeFiles/consolecalculator.dir/Calculator.cpp.o	1967a73cf742cb2b
+726	824	1735152067663551757	consolecalculator	f1d9c9c8621974e
+8	559	1735152087540525408	CMakeFiles/consolecalculator.dir/Calculator.cpp.o	1967a73cf742cb2b
+559	593	1735152088090967732	consolecalculator	f1d9c9c8621974e
+9	687	1735152138571845189	CMakeFiles/consolecalculator.dir/main.cpp.o	fc1ce608592a3619
+687	787	1735152139249735620	consolecalculator	f1d9c9c8621974e
+11	691	1735152231317313229	CMakeFiles/consolecalculator.dir/main.cpp.o	fc1ce608592a3619
+691	789	1735152231997179444	consolecalculator	f1d9c9c8621974e
+8	768	1735152708495455340	CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o	df0ca5ae04af3047
+769	869	1735152709255766575	consolecalculator	f1d9c9c8621974e
+10	980	1735350909124725681	CMakeFiles/consolecalculator.dir/main.cpp.o	fc1ce608592a3619
+12	980	1735350909126115389	CMakeFiles/consolecalculator.dir/Calculator.cpp.o	1967a73cf742cb2b
+10	957	1735351644188674656	CMakeFiles/consolecalculator.dir/Calculator.cpp.o	1967a73cf742cb2b
+11	966	1735351644189932706	CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o	fe3efd7cc06ca1a0
+11	993	1735351644189674680	CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o	df0ca5ae04af3047
+993	1127	1735351645172346761	consolecalculator	f1d9c9c8621974e
