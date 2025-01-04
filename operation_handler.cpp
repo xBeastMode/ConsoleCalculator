@@ -1,10 +1,10 @@
 #include <numeric>
-#include "OperationHandler.h"
+#include "operation_handler.h"
 
 #include <thread>
 
-#include "CalculatorUtils.h"
-#include "ParenthesisHandler.h"
+#include "calculator_utils.h"
+#include "parenthesis_handler.h"
 
 std::string OperationHandler::join_operation_stack(const StringVector &operation_stack) {
     return std::accumulate(operation_stack.begin(), operation_stack.end(), std::string{});

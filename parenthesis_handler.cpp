@@ -1,6 +1,6 @@
-#include "ParenthesisHandler.h"
-#include "CalculatorUtils.h"
-#include "OperationHandler.h"
+#include "parenthesis_handler.h"
+#include "calculator_utils.h"
+#include "operation_handler.h"
 
 void ParenthesisHandler::handle_open_parenthesis(const size_t i) {
     if (!current_operation.empty()) {

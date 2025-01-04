@@ -1,7 +1,7 @@
-#include "Calculator.h"
+#include "calculator.h"
 
 #include <sstream>
-#include "OperationHandler.h"
+#include "operation_handler.h"
 
 bool Calculator::evaluate_parenthesis() {
     try {

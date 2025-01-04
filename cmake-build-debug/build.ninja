@@ -61,20 +61,20 @@ build CMakeFiles/consolecalculator.dir/Calculator.cpp.o: CXX_COMPILER__consoleca
   OBJECT_DIR = CMakeFiles/consolecalculator.dir
   OBJECT_FILE_DIR = CMakeFiles/consolecalculator.dir
 
-build CMakeFiles/consolecalculator.dir/CalculatorUtils.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/CalculatorUtils.cpp || cmake_object_order_depends_target_consolecalculator
-  DEP_FILE = CMakeFiles/consolecalculator.dir/CalculatorUtils.cpp.o.d
+build CMakeFiles/consolecalculator.dir/calculator_utils.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/calculator_utils.cpp || cmake_object_order_depends_target_consolecalculator
+  DEP_FILE = CMakeFiles/consolecalculator.dir/calculator_utils.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/consolecalculator.dir
   OBJECT_FILE_DIR = CMakeFiles/consolecalculator.dir
 
-build CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/OperationHandler.cpp || cmake_object_order_depends_target_consolecalculator
-  DEP_FILE = CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o.d
+build CMakeFiles/consolecalculator.dir/operation_handler.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/operation_handler.cpp || cmake_object_order_depends_target_consolecalculator
+  DEP_FILE = CMakeFiles/consolecalculator.dir/operation_handler.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/consolecalculator.dir
   OBJECT_FILE_DIR = CMakeFiles/consolecalculator.dir
 
-build CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/ParenthesisHandler.cpp || cmake_object_order_depends_target_consolecalculator
-  DEP_FILE = CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o.d
+build CMakeFiles/consolecalculator.dir/parenthesis_handler.cpp.o: CXX_COMPILER__consolecalculator_unscanned_Debug /Users/angelmaya/CLionProjects/consolecalculator/parenthesis_handler.cpp || cmake_object_order_depends_target_consolecalculator
+  DEP_FILE = CMakeFiles/consolecalculator.dir/parenthesis_handler.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/consolecalculator.dir
   OBJECT_FILE_DIR = CMakeFiles/consolecalculator.dir
@@ -87,7 +87,7 @@ build CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o: CXX_COMPILER__c
 #############################################
 # Link the executable consolecalculator
 
-build consolecalculator: CXX_EXECUTABLE_LINKER__consolecalculator_Debug CMakeFiles/consolecalculator.dir/main.cpp.o CMakeFiles/consolecalculator.dir/Calculator.cpp.o CMakeFiles/consolecalculator.dir/CalculatorUtils.cpp.o CMakeFiles/consolecalculator.dir/OperationHandler.cpp.o CMakeFiles/consolecalculator.dir/ParenthesisHandler.cpp.o
+build consolecalculator: CXX_EXECUTABLE_LINKER__consolecalculator_Debug CMakeFiles/consolecalculator.dir/main.cpp.o CMakeFiles/consolecalculator.dir/Calculator.cpp.o CMakeFiles/consolecalculator.dir/calculator_utils.cpp.o CMakeFiles/consolecalculator.dir/operation_handler.cpp.o CMakeFiles/consolecalculator.dir/parenthesis_handler.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk
   OBJECT_DIR = CMakeFiles/consolecalculator.dir
   POST_BUILD = :

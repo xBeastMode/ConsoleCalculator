@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Calculator.h"
-#include "CalculatorUtils.h"
+#include "calculator.h"
+#include "calculator_utils.h"
 
 void trim_string(std::string &str) {
     str.erase(std::remove(str.begin(), str.end(), ' '), str.end());

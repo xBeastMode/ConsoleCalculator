@@ -1,4 +1,4 @@
-#include "CalculatorUtils.h"
+#include "calculator_utils.h"
 #include <thread>
 
 bool CalculatorUtils::is_digit(const std::string& s){
